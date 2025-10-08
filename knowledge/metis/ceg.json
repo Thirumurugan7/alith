@@ -1,5 +1,141 @@
 [
     {
+        "id": "91f3a53f98ab0022",
+        "topic_id": "10786",
+        "title": "Code Your Clone: A Developer\u2019s Guide to Digital Twins with LazAI",
+        "url": "https://forum.ceg.vote/t/code-your-clone-a-developer-s-guide-to-digital-twins-with-lazai/10786",
+        "views": "",
+        "comments": "0",
+        "created_date": "Oct 7, 2025 5:16 pm",
+        "latest_activity": null,
+        "content": "Hello builders!\nJust dropped a new blog \u2014 Build Your Own Digital Twin \u2014 An AI That Speaks in Your Voice.\nIt\u2019s a hands-on dive into how developers can create, query, and integrate their own LazAI Digital Twin - an AI persona powered by your data, voice, and style.\nThis one\u2019s for the builders who believe in data ownership, privacy, and verifiable identity - not just using AI, but building one that represents you.\nRead here \u2192 Build Your Own Digital Twin \u2014 LazAI Developer Setup\nHow do you imagine your AI twin evolving with you?\nAligned @0xthiru @nidhinakranii\n\u2014 Harini Priya K, LazAI Dev Ambassador",
+        "comments_details": [
+            {
+                "author": "Harini_Priya",
+                "comment": "Hello builders!\nJust dropped a new blog \u2014 Build Your Own Digital Twin \u2014 An AI That Speaks in Your Voice.\nIt\u2019s a hands-on dive into how developers can create, query, and integrate their own LazAI Digital Twin - an AI persona powered by your data, voice, and style.\nThis one\u2019s for the builders who believe in data ownership, privacy, and verifiable identity - not just using AI, but building one that represents you.\nRead here \u2192 Build Your Own Digital Twin \u2014 LazAI Developer Setup\nHow do you imagine your AI twin evolving with you?\nAligned @0xthiru @nidhinakranii\n\u2014 Harini Priya K, LazAI Dev Ambassador"
+            }
+        ]
+    },
+    {
+        "id": "0b6cf539168322ea",
+        "topic_id": "10785",
+        "title": "iDAO Blog \u2013 Dive into the Future of Individual AI Power!",
+        "url": "https://forum.ceg.vote/t/idao-blog-dive-into-the-future-of-individual-ai-power/10785",
+        "views": "",
+        "comments": "0",
+        "created_date": "Oct 7, 2025 5:13 pm",
+        "latest_activity": null,
+        "content": "Hey Builder Guilds,\nI\u2019m thrilled to share my latest blog post on Medium: From Chaos to Control: My Journey into LazAI\u2019s iDAO \u2014 Empowering the Individual in the AI Revolution. It\u2019s a personal story of how LazAI\u2019s Individual-centric intelligent DAO (iDAO) transformed my approach to AI, putting solo devs like us in the driver\u2019s seat. Here\u2019s the quick version\u2014check the full post for the rest!\nIt all started one rainy night, wrestling with a messy chatbot project for my freelance gigs. The data was a nightmare\u2014biased, ungoverned, and stuck in centralized silos. Traditional DAOs? Too corporate, too collective. Then I found LazAI\u2019s iDAO: a game-changer that hands you the keys to your own AI kingdom. Your data, your agents, your rules.\nSetting up my iDAO was like deploying a smart contract with a twist. I uploaded my freelance dataset and governed it autonomously. Key powers kicked in:\nGovernance Autonomy: I set rules for my datasets and models\u2014no boardroom drama.\nData Sovereignty: I owned my data flows, deciding who gets access via smart contracts.\nAI Agent Management: My MicroAgent trained off-chain, delivering insights like \u201cOptimize gigs for 20% efficiency.\u201d\nConsensus via Quorums: My iDAO joined a Quorum to validate data trustworthiness without on-chain bloat, like a neighborhood watch for AI.\nWant the full story, including advantages and how to implement your own iDAO? Read it here: From Chaos to Control. Link\nWhat\u2019s your take on iDAOs? Anyone building with them in Builder Guilds? Drop your thoughts or project ideas below\u2014let\u2019s spark the AI revolution!\n@0xthiru @nidhinakranii\n\u2013 Kiran, LazAI Dev Ambassador",
+        "comments_details": [
+            {
+                "author": "kirandev",
+                "comment": "Hey Builder Guilds,\nI\u2019m thrilled to share my latest blog post on Medium: From Chaos to Control: My Journey into LazAI\u2019s iDAO \u2014 Empowering the Individual in the AI Revolution. It\u2019s a personal story of how LazAI\u2019s Individual-centric intelligent DAO (iDAO) transformed my approach to AI, putting solo devs like us in the driver\u2019s seat. Here\u2019s the quick version\u2014check the full post for the rest!\nIt all started one rainy night, wrestling with a messy chatbot project for my freelance gigs. The data was a nightmare\u2014biased, ungoverned, and stuck in centralized silos. Traditional DAOs? Too corporate, too collective. Then I found LazAI\u2019s iDAO: a game-changer that hands you the keys to your own AI kingdom. Your data, your agents, your rules.\nSetting up my iDAO was like deploying a smart contract with a twist. I uploaded my freelance dataset and governed it autonomously. Key powers kicked in:\nGovernance Autonomy: I set rules for my datasets and models\u2014no boardroom drama.\nData Sovereignty: I owned my data flows, deciding who gets access via smart contracts.\nAI Agent Management: My MicroAgent trained off-chain, delivering insights like \u201cOptimize gigs for 20% efficiency.\u201d\nConsensus via Quorums: My iDAO joined a Quorum to validate data trustworthiness without on-chain bloat, like a neighborhood watch for AI.\nWant the full story, including advantages and how to implement your own iDAO? Read it here: From Chaos to Control. Link\nWhat\u2019s your take on iDAOs? Anyone building with them in Builder Guilds? Drop your thoughts or project ideas below\u2014let\u2019s spark the AI revolution!\n@0xthiru @nidhinakranii\n\u2013 Kiran, LazAI Dev Ambassador"
+            }
+        ]
+    },
+    {
+        "id": "f0f83bf87d123d43",
+        "topic_id": "10784",
+        "title": "What makes a project \u201cportfolio-worthy\u201d for a developer?",
+        "url": "https://forum.ceg.vote/t/what-makes-a-project-portfolio-worthy-for-a-developer/10784",
+        "views": "",
+        "comments": "0",
+        "created_date": "Oct 7, 2025 5:13 pm",
+        "latest_activity": "Oct 7, 2025 5:13 pm",
+        "content": "Not every project we build ends up being something we show off. Some stay half-finished, some were just experiments, and a few feel solid enough to highlight in a portfolio or on GitHub.\nBut what makes the difference?\nIs it the quality of the code?\nThe design and polish?\nThe size of the impact?\nOr simply how much you learned while building it?\nCurious to hear how others decide which projects are worth showcasing.",
+        "comments_details": [
+            {
+                "author": "nidhinakranii",
+                "comment": "Not every project we build ends up being something we show off. Some stay half-finished, some were just experiments, and a few feel solid enough to highlight in a portfolio or on GitHub.\nBut what makes the difference?\nIs it the quality of the code?\nThe design and polish?\nThe size of the impact?\nOr simply how much you learned while building it?\nCurious to hear how others decide which projects are worth showcasing."
+            }
+        ]
+    },
+    {
+        "id": "d04794087d8fb55c",
+        "topic_id": "10779",
+        "title": "Deploy Your First Smart Contract on LazAI network",
+        "url": "https://forum.ceg.vote/t/deploy-your-first-smart-contract-on-lazai-network/10779",
+        "views": "",
+        "comments": "0",
+        "created_date": "Oct 7, 2025 4:41 pm",
+        "latest_activity": null,
+        "content": "I recently tried building on the LazAI blockchain, and I successfully deployed my first smart contract using Remix and MetaMask.\nIt was my first time doing this, and honestly, it was much easier than I thought.\nI also wrote a small article on Medium where I explained all the steps clearly \u2014 > how to set up MetaMask, write a Solidity contract, deploy it on LazAI testnet, and interact with it.\nI even made a video showing the full process from start to finish.\nRead my article here: Deploy your Smart Contract\nWatch my video demo here: Deploy your Smart Contract\n// Don\u2019t forget to subscribe to my Channel and give some likes tooo",
+        "comments_details": [
+            {
+                "author": "Abi",
+                "comment": "I recently tried building on the LazAI blockchain, and I successfully deployed my first smart contract using Remix and MetaMask.\nIt was my first time doing this, and honestly, it was much easier than I thought.\nI also wrote a small article on Medium where I explained all the steps clearly \u2014 > how to set up MetaMask, write a Solidity contract, deploy it on LazAI testnet, and interact with it.\nI even made a video showing the full process from start to finish.\nRead my article here: Deploy your Smart Contract\nWatch my video demo here: Deploy your Smart Contract\n// Don\u2019t forget to subscribe to my Channel and give some likes tooo"
+            }
+        ]
+    },
+    {
+        "id": "2af38106fd91f953",
+        "topic_id": "10729",
+        "title": "Metis Mission - X space",
+        "url": "https://forum.ceg.vote/t/metis-mission-x-space/10729",
+        "views": "",
+        "comments": "18",
+        "created_date": "Oct 2, 2025 2:25 pm",
+        "latest_activity": "Oct 7, 2025 2:28 pm",
+        "content": "OCT\n7\nMetis Vision Update- X Space\nExpired\n\u00b7\nCreated by\nSheyda\nYesterday 4:00 PM \u2192 5:00 PM (Abidjan)\n5\nWe\u2019re going live with Elena for a special X AMA\nJoin us on October 7 at 4PM UTC on the Metis X account as our founder Elena shares more about the vision behind Metis\u2019s latest direction update.\nTopics include:\nWhy Metis is \u201cnot just another L2\u201d\nHyperion as the AI-optimized infrastructure layer\nLazAI as the application/data & playability layer\nThe role of the community in shaping what comes next\nBring your questions\u2014$100 will be awarded to the top 5 community questions asked during the Space.\nMark your calendars and join the conversation.\nRead More: Open Letter to the Metis Community: Metis is no longer \u201cjust an L2\u201d",
+        "comments_details": [
+            {
+                "author": "Sheyda",
+                "comment": "OCT\n7\nMetis Vision Update- X Space\nExpired\n\u00b7\nCreated by\nSheyda\nYesterday 4:00 PM \u2192 5:00 PM (Abidjan)\n5\nWe\u2019re going live with Elena for a special X AMA\nJoin us on October 7 at 4PM UTC on the Metis X account as our founder Elena shares more about the vision behind Metis\u2019s latest direction update.\nTopics include:\nWhy Metis is \u201cnot just another L2\u201d\nHyperion as the AI-optimized infrastructure layer\nLazAI as the application/data & playability layer\nThe role of the community in shaping what comes next\nBring your questions\u2014$100 will be awarded to the top 5 community questions asked during the Space.\nMark your calendars and join the conversation.\nRead More: Open Letter to the Metis Community: Metis is no longer \u201cjust an L2\u201d"
+            }
+        ]
+    },
+    {
+        "id": "575c80a1d44d7ca5",
+        "topic_id": "10778",
+        "title": "Ecosystems Thrive When Communities Lead \u2014 What Can We Learn From Emerging Models?",
+        "url": "https://forum.ceg.vote/t/ecosystems-thrive-when-communities-lead-what-can-we-learn-from-emerging-models/10778",
+        "views": "",
+        "comments": "0",
+        "created_date": "Oct 7, 2025 1:39 pm",
+        "latest_activity": null,
+        "content": "Every ecosystem starts with code, but survives because of people.\nTechnology evolves fast, yet what truly sustains growth is how communities form, interact, and build together.\nAcross blockchain, AI, and open networks, we\u2019re seeing a clear shift \u2014 from top-down project management to community-driven ecosystems. The next question is: what makes this work sustainably?\nThe Core Idea \u2014 People Before Protocols\nWhen an ecosystem treats its community as a living infrastructure, everything changes.\nBuilders share updates faster, contributors coordinate naturally, and users become storytellers.\nSome ecosystems are re-architecting around this principle \u2014 instead of seeing users as endpoints, they\u2019re designing feedback loops where the community directly shapes direction.\nA strong example of this shift is seen in new L2 frameworks like Metis, which are exploring models where community participation and ecosystem development evolve together through layered structures \u2014 governance, builders\u2019 networks, and AI-aligned applications.\nWhy It Matters\nCommunity-first ecosystems often see:\nFaster innovation cycles \u2014 contributors iterate in public.\nResilience \u2014 ownership is distributed, not dependent on a single core team.\nOrganic growth \u2014 storytelling and advocacy happen naturally.\nTransparency \u2014 updates and governance stay open-source and verifiable.\nWhen the focus is on co-creation instead of control, ecosystems become antifragile \u2014 they don\u2019t just survive market shifts, they adapt.\nStill, this model isn\u2019t easy to sustain. It requires:\nReal incentives for contributors beyond token rewards.\nClear communication between technical and non-technical members.\nConsistent transparency \u2014 even when things go wrong.\nTools that make participation frictionless.\nThese are areas where communities globally \u2014 from AI collectives to Web3 networks \u2014 are still learning and iterating.\nA Case for Emerging Frameworks\nProjects like Metis are experimenting with layered ecosystem design:\nInfrastructure Layer \u2014 high-performance blockchain and compute systems.\nApplication Layer \u2014 spaces for AI-powered and user-driven tools.\nCommunity Layer \u2014 open forums, guilds, and self-organized groups that decide what to build next.\nIt\u2019s not about one company leading the charge, but about designing environments where anyone can lead responsibly.\nThat\u2019s the essence of ecosystem autonomy.\nLet\u2019s open it up:\nWhat defines a sustainable community in your view \u2014 incentives, values, or governance?\nCan AI-powered ecosystems like Hyperion and LazAI (built on Metis) create new forms of collaboration between humans and machines?\nShould more ecosystems adopt a layered, modular design \u2014 or will simplicity always win?\nHow do we balance community freedom with clear accountability?",
+        "comments_details": [
+            {
+                "author": "Norbert",
+                "comment": "Every ecosystem starts with code, but survives because of people.\nTechnology evolves fast, yet what truly sustains growth is how communities form, interact, and build together.\nAcross blockchain, AI, and open networks, we\u2019re seeing a clear shift \u2014 from top-down project management to community-driven ecosystems. The next question is: what makes this work sustainably?\nThe Core Idea \u2014 People Before Protocols\nWhen an ecosystem treats its community as a living infrastructure, everything changes.\nBuilders share updates faster, contributors coordinate naturally, and users become storytellers.\nSome ecosystems are re-architecting around this principle \u2014 instead of seeing users as endpoints, they\u2019re designing feedback loops where the community directly shapes direction.\nA strong example of this shift is seen in new L2 frameworks like Metis, which are exploring models where community participation and ecosystem development evolve together through layered structures \u2014 governance, builders\u2019 networks, and AI-aligned applications.\nWhy It Matters\nCommunity-first ecosystems often see:\nFaster innovation cycles \u2014 contributors iterate in public.\nResilience \u2014 ownership is distributed, not dependent on a single core team.\nOrganic growth \u2014 storytelling and advocacy happen naturally.\nTransparency \u2014 updates and governance stay open-source and verifiable.\nWhen the focus is on co-creation instead of control, ecosystems become antifragile \u2014 they don\u2019t just survive market shifts, they adapt.\nStill, this model isn\u2019t easy to sustain. It requires:\nReal incentives for contributors beyond token rewards.\nClear communication between technical and non-technical members.\nConsistent transparency \u2014 even when things go wrong.\nTools that make participation frictionless.\nThese are areas where communities globally \u2014 from AI collectives to Web3 networks \u2014 are still learning and iterating.\nA Case for Emerging Frameworks\nProjects like Metis are experimenting with layered ecosystem design:\nInfrastructure Layer \u2014 high-performance blockchain and compute systems.\nApplication Layer \u2014 spaces for AI-powered and user-driven tools.\nCommunity Layer \u2014 open forums, guilds, and self-organized groups that decide what to build next.\nIt\u2019s not about one company leading the charge, but about designing environments where anyone can lead responsibly.\nThat\u2019s the essence of ecosystem autonomy.\nLet\u2019s open it up:\nWhat defines a sustainable community in your view \u2014 incentives, values, or governance?\nCan AI-powered ecosystems like Hyperion and LazAI (built on Metis) create new forms of collaboration between humans and machines?\nShould more ecosystems adopt a layered, modular design \u2014 or will simplicity always win?\nHow do we balance community freedom with clear accountability?"
+            }
+        ]
+    },
+    {
+        "id": "480252b2ac3c04ae",
+        "topic_id": "10767",
+        "title": "The New Definition of \u201cFull-Stack Dev\u201d in a Post-AI World",
+        "url": "https://forum.ceg.vote/t/the-new-definition-of-full-stack-dev-in-a-post-ai-world/10767",
+        "views": "",
+        "comments": "2",
+        "created_date": "Oct 6, 2025 8:54 am",
+        "latest_activity": "Oct 7, 2025 7:08 am",
+        "content": "There was a time when being full-stack meant you could handle everything from database to frontend and still have the energy to debug at 2 AM. You were the person who could build an idea from scratch, one commit at a time. That used to be the badge of versatility.\nBut now, things are different. AI has changed the rhythm of how we build. Code assistants, design generators, and deployment bots have blurred the old lines. Suddenly, being \u201cfull-stack\u201d isn\u2019t just about touching every part of the codebase. It\u2019s about understanding how to connect the right pieces together.\nYou don\u2019t need to write every line anymore. You need to understand how the system works as a whole. You might not be the database expert or the CSS magician, but you know how to bring it all into one flow, using AI where it makes sense and humans where it matters.\nThe best developers now are less about doing it all themselves and more about thinking across layers. They can talk to AI tools like collaborators, not crutches. They can translate ideas into systems quickly, not because they type fast, but because they think in structures.\nBeing full-stack in 2025 isn\u2019t about mastering every framework. It\u2019s about mastering adaptability. It\u2019s about curiosity, clarity, and the confidence to let AI handle the heavy lifting while you stay focused on the bigger picture.\nIn this new world, the real \u201cstack\u201d is human creativity, collaboration, and smart automation.\nIf you can work across those layers, you\u2019re as full-stack as it gets.",
+        "comments_details": [
+            {
+                "author": "0xthiru",
+                "comment": "There was a time when being full-stack meant you could handle everything from database to frontend and still have the energy to debug at 2 AM. You were the person who could build an idea from scratch, one commit at a time. That used to be the badge of versatility.\nBut now, things are different. AI has changed the rhythm of how we build. Code assistants, design generators, and deployment bots have blurred the old lines. Suddenly, being \u201cfull-stack\u201d isn\u2019t just about touching every part of the codebase. It\u2019s about understanding how to connect the right pieces together.\nYou don\u2019t need to write every line anymore. You need to understand how the system works as a whole. You might not be the database expert or the CSS magician, but you know how to bring it all into one flow, using AI where it makes sense and humans where it matters.\nThe best developers now are less about doing it all themselves and more about thinking across layers. They can talk to AI tools like collaborators, not crutches. They can translate ideas into systems quickly, not because they type fast, but because they think in structures.\nBeing full-stack in 2025 isn\u2019t about mastering every framework. It\u2019s about mastering adaptability. It\u2019s about curiosity, clarity, and the confidence to let AI handle the heavy lifting while you stay focused on the bigger picture.\nIn this new world, the real \u201cstack\u201d is human creativity, collaboration, and smart automation.\nIf you can work across those layers, you\u2019re as full-stack as it gets."
+            }
+        ]
+    },
+    {
+        "id": "e0d5c340cfc23674",
+        "topic_id": "10295",
+        "title": "New EIPs in Ethereum: what\u2019s coming and why does it matter?",
+        "url": "https://forum.ceg.vote/t/new-eips-in-ethereum-what-s-coming-and-why-does-it-matter/10295",
+        "views": "",
+        "comments": "1",
+        "created_date": "Aug 27, 2025 9:46 pm",
+        "latest_activity": "Oct 7, 2025 6:39 am",
+        "content": "Hello there!\nI\u2019d like to share some exciting updates about Ethereum Improvement Proposals (EIPs).\nAs you know, Ethereum evolves through improvement proposals \u2014 EIPs. One of the latest proposals actively moving toward implementation is EIP-3074: Auth and Exec. Its core idea is to make wallet management much easier, including the long-awaited feature of recovering access to your Ethereum wallet, which has been a pain point for many users.\nThere are other interesting proposals too \u2014 for example, EIP-4906 for updating NFTs, or the recently implemented EIP-4844: Proto-Danksharding (Blob blocks), which has already helped reduce fees across L2 networks.\nIf you\u2019d like to dive deeper, check out the Ethereum Magicians Forum \u2014 this is where the Ethereum community discusses upcoming upgrades, and anyone can comment or join the conversation.\nNow, a question for you:\nWhich Ethereum upgrade do you find most valuable?\nThe ability to recover your address (EIP-3074)?\nNew possibilities for NFTs (EIP-4906)?\nOr what\u2019s already live \u2014 Blob blocks (EIP-4844)?",
+        "comments_details": [
+            {
+                "author": "Vladimir",
+                "comment": "Hello there!\nI\u2019d like to share some exciting updates about Ethereum Improvement Proposals (EIPs).\nAs you know, Ethereum evolves through improvement proposals \u2014 EIPs. One of the latest proposals actively moving toward implementation is EIP-3074: Auth and Exec. Its core idea is to make wallet management much easier, including the long-awaited feature of recovering access to your Ethereum wallet, which has been a pain point for many users.\nThere are other interesting proposals too \u2014 for example, EIP-4906 for updating NFTs, or the recently implemented EIP-4844: Proto-Danksharding (Blob blocks), which has already helped reduce fees across L2 networks.\nIf you\u2019d like to dive deeper, check out the Ethereum Magicians Forum \u2014 this is where the Ethereum community discusses upcoming upgrades, and anyone can comment or join the conversation.\nNow, a question for you:\nWhich Ethereum upgrade do you find most valuable?\nThe ability to recover your address (EIP-3074)?\nNew possibilities for NFTs (EIP-4906)?\nOr what\u2019s already live \u2014 Blob blocks (EIP-4844)?"
+            }
+        ]
+    },
+    {
         "id": "8598b1de030cdcc5",
         "topic_id": "10743",
         "title": "Hack First, Polish Later",
@@ -51,23 +187,6 @@
         ]
     },
     {
-        "id": "480252b2ac3c04ae",
-        "topic_id": "10767",
-        "title": "The New Definition of \u201cFull-Stack Dev\u201d in a Post-AI World",
-        "url": "https://forum.ceg.vote/t/the-new-definition-of-full-stack-dev-in-a-post-ai-world/10767",
-        "views": "",
-        "comments": "1",
-        "created_date": "Oct 6, 2025 8:54 am",
-        "latest_activity": "Oct 6, 2025 10:00 pm",
-        "content": "There was a time when being full-stack meant you could handle everything from database to frontend and still have the energy to debug at 2 AM. You were the person who could build an idea from scratch, one commit at a time. That used to be the badge of versatility.\nBut now, things are different. AI has changed the rhythm of how we build. Code assistants, design generators, and deployment bots have blurred the old lines. Suddenly, being \u201cfull-stack\u201d isn\u2019t just about touching every part of the codebase. It\u2019s about understanding how to connect the right pieces together.\nYou don\u2019t need to write every line anymore. You need to understand how the system works as a whole. You might not be the database expert or the CSS magician, but you know how to bring it all into one flow, using AI where it makes sense and humans where it matters.\nThe best developers now are less about doing it all themselves and more about thinking across layers. They can talk to AI tools like collaborators, not crutches. They can translate ideas into systems quickly, not because they type fast, but because they think in structures.\nBeing full-stack in 2025 isn\u2019t about mastering every framework. It\u2019s about mastering adaptability. It\u2019s about curiosity, clarity, and the confidence to let AI handle the heavy lifting while you stay focused on the bigger picture.\nIn this new world, the real \u201cstack\u201d is human creativity, collaboration, and smart automation.\nIf you can work across those layers, you\u2019re as full-stack as it gets.",
-        "comments_details": [
-            {
-                "author": "0xthiru",
-                "comment": "There was a time when being full-stack meant you could handle everything from database to frontend and still have the energy to debug at 2 AM. You were the person who could build an idea from scratch, one commit at a time. That used to be the badge of versatility.\nBut now, things are different. AI has changed the rhythm of how we build. Code assistants, design generators, and deployment bots have blurred the old lines. Suddenly, being \u201cfull-stack\u201d isn\u2019t just about touching every part of the codebase. It\u2019s about understanding how to connect the right pieces together.\nYou don\u2019t need to write every line anymore. You need to understand how the system works as a whole. You might not be the database expert or the CSS magician, but you know how to bring it all into one flow, using AI where it makes sense and humans where it matters.\nThe best developers now are less about doing it all themselves and more about thinking across layers. They can talk to AI tools like collaborators, not crutches. They can translate ideas into systems quickly, not because they type fast, but because they think in structures.\nBeing full-stack in 2025 isn\u2019t about mastering every framework. It\u2019s about mastering adaptability. It\u2019s about curiosity, clarity, and the confidence to let AI handle the heavy lifting while you stay focused on the bigger picture.\nIn this new world, the real \u201cstack\u201d is human creativity, collaboration, and smart automation.\nIf you can work across those layers, you\u2019re as full-stack as it gets."
-            }
-        ]
-    },
-    {
         "id": "9491437c24619430",
         "topic_id": "10761",
         "title": "How to Stay Curious When Everything Moves Too Fast",
@@ -102,23 +221,6 @@
         ]
     },
     {
-        "id": "2af38106fd91f953",
-        "topic_id": "10729",
-        "title": "Metis Mission - X space",
-        "url": "https://forum.ceg.vote/t/metis-mission-x-space/10729",
-        "views": "",
-        "comments": "11",
-        "created_date": "Oct 2, 2025 2:25 pm",
-        "latest_activity": "Oct 6, 2025 5:38 pm",
-        "content": "OCT\n7\nMetis Vision Update- X Space\nPublic\n\u00b7\nCreated by\nSheyda\nToday 4:00 PM \u2192 5:00 PM (Abidjan)\n5\nWe\u2019re going live with Elena for a special X AMA\nJoin us on October 7 at 4PM UTC on the Metis X account as our founder Elena shares more about the vision behind Metis\u2019s latest direction update.\nTopics include:\nWhy Metis is \u201cnot just another L2\u201d\nHyperion as the AI-optimized infrastructure layer\nLazAI as the application/data & playability layer\nThe role of the community in shaping what comes next\nBring your questions\u2014$100 will be awarded to the top 5 community questions asked during the Space.\nMark your calendars and join the conversation.\nRead More: Open Letter to the Metis Community: Metis is no longer \u201cjust an L2\u201d",
-        "comments_details": [
-            {
-                "author": "Sheyda",
-                "comment": "OCT\n7\nMetis Vision Update- X Space\nPublic\n\u00b7\nCreated by\nSheyda\nToday 4:00 PM \u2192 5:00 PM (Abidjan)\n5\nWe\u2019re going live with Elena for a special X AMA\nJoin us on October 7 at 4PM UTC on the Metis X account as our founder Elena shares more about the vision behind Metis\u2019s latest direction update.\nTopics include:\nWhy Metis is \u201cnot just another L2\u201d\nHyperion as the AI-optimized infrastructure layer\nLazAI as the application/data & playability layer\nThe role of the community in shaping what comes next\nBring your questions\u2014$100 will be awarded to the top 5 community questions asked during the Space.\nMark your calendars and join the conversation.\nRead More: Open Letter to the Metis Community: Metis is no longer \u201cjust an L2\u201d"
-            }
-        ]
-    },
-    {
         "id": "29c7759497154bfa",
         "topic_id": "10772",
         "title": "Market Sentiment: \u201cUptober\u201d and the Potential Altcoin Season",
@@ -144,11 +246,11 @@
         "comments": "0",
         "created_date": "Oct 6, 2025 4:06 pm",
         "latest_activity": null,
-        "content": "OCT\n6\nLazAI Explainer Challenge*\nPublic\n\u00b7\nCreated by\nSheyda\nYesterday 4:02 PM \u2192 Mon, Oct 20 4:00 AM\n2\nHyperion\u2019s AI era is being shaped by LazAI, and we\u2019d like the community to convey the value to others. That\u2019s why we\u2019re launching the LazAI Explainer Challenge, a campaign focused on creating educational content that explains LazAI and the unique role of Lazbubu DATs.\nLazbubu DATs were the first AI companions on LazAI. They evolve as you interact with them, recording their journey onchain. The mint was whitelist-only and is now closed, making them rare and valuable.\nYour task is to help highlight LazAI\u2019s features and explain the value of Lazbubu DATs in a way the broader community can learn from.\nCampaign Flow\nCreate an educational piece of content. This can be in a format of:\nA short video\nAn infographic\nA forum article in Guilds\nA Twitter/X thread (Tag @LazAINetwork)\nShare your content link, screenshot or straight here as a reply in this Forum post.\nRewards\nBest Content: A Lazbubu DAT Redeem Code (Exclusive and Closed Mint Access).\nJoin the Quest\nExplain, create, and share. Post your thoughts or content link as a reply below. The most impactful explainer will earn a Lazbubu DAT, a rare entry into LazAI.",
+        "content": "OCT\n6\nLazAI Explainer Challenge*\nPublic\n\u00b7\nCreated by\nSheyda\nMon, Oct 6 4:02 PM \u2192 Mon, Oct 20 4:00 AM\n3\nHyperion\u2019s AI era is being shaped by LazAI, and we\u2019d like the community to convey the value to others. That\u2019s why we\u2019re launching the LazAI Explainer Challenge, a campaign focused on creating educational content that explains LazAI and the unique role of Lazbubu DATs.\nLazbubu DATs were the first AI companions on LazAI. They evolve as you interact with them, recording their journey onchain. The mint was whitelist-only and is now closed, making them rare and valuable.\nYour task is to help highlight LazAI\u2019s features and explain the value of Lazbubu DATs in a way the broader community can learn from.\nCampaign Flow\nCreate an educational piece of content. This can be in a format of:\nA short video\nAn infographic\nA forum article in Guilds\nA Twitter/X thread (Tag @LazAINetwork)\nShare your content link, screenshot or straight here as a reply in this Forum post.\nRewards\nBest Content: A Lazbubu DAT Redeem Code (Exclusive and Closed Mint Access).\nJoin the Quest\nExplain, create, and share. Post your thoughts or content link as a reply below. The most impactful explainer will earn a Lazbubu DAT, a rare entry into LazAI.",
         "comments_details": [
             {
                 "author": "Sheyda",
-                "comment": "OCT\n6\nLazAI Explainer Challenge*\nPublic\n\u00b7\nCreated by\nSheyda\nYesterday 4:02 PM \u2192 Mon, Oct 20 4:00 AM\n2\nHyperion\u2019s AI era is being shaped by LazAI, and we\u2019d like the community to convey the value to others. That\u2019s why we\u2019re launching the LazAI Explainer Challenge, a campaign focused on creating educational content that explains LazAI and the unique role of Lazbubu DATs.\nLazbubu DATs were the first AI companions on LazAI. They evolve as you interact with them, recording their journey onchain. The mint was whitelist-only and is now closed, making them rare and valuable.\nYour task is to help highlight LazAI\u2019s features and explain the value of Lazbubu DATs in a way the broader community can learn from.\nCampaign Flow\nCreate an educational piece of content. This can be in a format of:\nA short video\nAn infographic\nA forum article in Guilds\nA Twitter/X thread (Tag @LazAINetwork)\nShare your content link, screenshot or straight here as a reply in this Forum post.\nRewards\nBest Content: A Lazbubu DAT Redeem Code (Exclusive and Closed Mint Access).\nJoin the Quest\nExplain, create, and share. Post your thoughts or content link as a reply below. The most impactful explainer will earn a Lazbubu DAT, a rare entry into LazAI."
+                "comment": "OCT\n6\nLazAI Explainer Challenge*\nPublic\n\u00b7\nCreated by\nSheyda\nMon, Oct 6 4:02 PM \u2192 Mon, Oct 20 4:00 AM\n3\nHyperion\u2019s AI era is being shaped by LazAI, and we\u2019d like the community to convey the value to others. That\u2019s why we\u2019re launching the LazAI Explainer Challenge, a campaign focused on creating educational content that explains LazAI and the unique role of Lazbubu DATs.\nLazbubu DATs were the first AI companions on LazAI. They evolve as you interact with them, recording their journey onchain. The mint was whitelist-only and is now closed, making them rare and valuable.\nYour task is to help highlight LazAI\u2019s features and explain the value of Lazbubu DATs in a way the broader community can learn from.\nCampaign Flow\nCreate an educational piece of content. This can be in a format of:\nA short video\nAn infographic\nA forum article in Guilds\nA Twitter/X thread (Tag @LazAINetwork)\nShare your content link, screenshot or straight here as a reply in this Forum post.\nRewards\nBest Content: A Lazbubu DAT Redeem Code (Exclusive and Closed Mint Access).\nJoin the Quest\nExplain, create, and share. Post your thoughts or content link as a reply below. The most impactful explainer will earn a Lazbubu DAT, a rare entry into LazAI."
             }
         ]
     },
@@ -234,112 +336,6 @@
             {
                 "author": "Sheyda",
                 "comment": "SEP\n22\n6th No-Lose Lottery Winners!\nExpired\n\u00b7\nCreated by\nSheyda\nMon, Sep 22 4:00 PM \u2192 Wed, Sep 24 4:00 AM\n0 going\nCongratulations to our amazing contributors!\nThe 6th round of the No-Lose Lottery draw is complete!\nRemember, every point you earn on the Forum = 1 ticket for the biweekly draw, so your participation always counts.\nWinners:\nContributor Badge \u2013 Small Prize: @Hadijat, @biswas13\nVisionary Badge \u2013 Grand Prize: @JustineDevs\nReminder:\nEvery 1 point = 1 lottery ticket\nBoost your points! engage and contribute by replying, every reply earns 2 points\nCheck out your score in the live leaderboard\nStay tuned for the next round and official updates on Metis X: @MetisL2!"
-            }
-        ]
-    },
-    {
-        "id": "cbea8705e1daa929",
-        "topic_id": "10728",
-        "title": "What methods are used to drive user in WEB3 without creating paid campaigns or the traditional marketing methods",
-        "url": "https://forum.ceg.vote/t/what-methods-are-used-to-drive-user-in-web3-without-creating-paid-campaigns-or-the-traditional-marketing-methods/10728",
-        "views": "",
-        "comments": "5",
-        "created_date": "Oct 1, 2025 5:17 pm",
-        "latest_activity": "Oct 5, 2025 3:33 pm",
-        "content": "When it comes to generating users base with the SEO tactics and paid Ads",
-        "comments_details": [
-            {
-                "author": "Aodaniel",
-                "comment": "When it comes to generating users base with the SEO tactics and paid Ads"
-            },
-            {
-                "author": "haliburtonson",
-                "comment": "I would have to say the ability to enjoy ones self, or gain self satisfaction from using it, such as in playing games/leveraging contacts."
-            }
-        ]
-    },
-    {
-        "id": "7931bd80a555ddd1",
-        "topic_id": "10755",
-        "title": "Who Holds the Power in the Age of AI?",
-        "url": "https://forum.ceg.vote/t/who-holds-the-power-in-the-age-of-ai/10755",
-        "views": "",
-        "comments": "0",
-        "created_date": "Oct 5, 2025 5:10 am",
-        "latest_activity": "Oct 5, 2025 5:16 am",
-        "content": "Hello builders!\nJust published a new blog \u2014 \u201cRethinking Sovereignty in the Age of AI: The LazAI Vision.\u201d\nIt dives into one big question:\nWho holds the power in the age of AI \u2014 platforms or people?\nI explore how LazAI is reshaping this balance through trust, ownership, and alignment, aiming for a future where humans and AI grow together \u2014 not apart.\nIt\u2019s an easy, thoughtful read \u2014 blending real insights on data sovereignty and cognitive identity with LazAI\u2019s mission of cooperative AI-human growth.\nRead here \u2192 Rethinking Sovereignty in the Age of AI: The LazAI Vision\nDrop your thoughts: how do you see trust and ownership shaping our AI future?\nAligned @0xthiru @nidhinakranii\n\u2014 Harini Priya K, LazAI Dev Ambassador",
-        "comments_details": [
-            {
-                "author": "Harini_Priya",
-                "comment": "Hello builders!\nJust published a new blog \u2014 \u201cRethinking Sovereignty in the Age of AI: The LazAI Vision.\u201d\nIt dives into one big question:\nWho holds the power in the age of AI \u2014 platforms or people?\nI explore how LazAI is reshaping this balance through trust, ownership, and alignment, aiming for a future where humans and AI grow together \u2014 not apart.\nIt\u2019s an easy, thoughtful read \u2014 blending real insights on data sovereignty and cognitive identity with LazAI\u2019s mission of cooperative AI-human growth.\nRead here \u2192 Rethinking Sovereignty in the Age of AI: The LazAI Vision\nDrop your thoughts: how do you see trust and ownership shaping our AI future?\nAligned @0xthiru @nidhinakranii\n\u2014 Harini Priya K, LazAI Dev Ambassador"
-            }
-        ]
-    },
-    {
-        "id": "5c407cdaba8e1ed3",
-        "topic_id": "10750",
-        "title": "Alith using Free Api key",
-        "url": "https://forum.ceg.vote/t/alith-using-free-api-key/10750",
-        "views": "",
-        "comments": "0",
-        "created_date": "Oct 4, 2025 7:40 pm",
-        "latest_activity": "Oct 4, 2025 7:40 pm",
-        "content": "Hey everyone ,\nI\u2019m Abishake, and in this post, I\u2019ll walk you through how to get started with Alith.\nAlright, before we jump into building something cool, let\u2019s first get the basics right.\nWe\u2019re going to cover a few simple but important steps \u2014 all hands-on!\nHere\u2019s what we\u2019ll do together\nGet your free Groq API key\nSet up your Python environment\nInstall Alith\nConfigure your API key securely\nWrite a sample Python code using Alith\nAnd finally\u2026 run it live!\nStep 1: Get Your Free Groq API Key\nTo make Alith talk with AI models, we need an API key \u2014 and Groq gives one for free\nHere\u2019s how to get it in less than a minute:\nGo to Groq\nSign up or log in\nHead over to API Keys \u2192 Generate New Key\nCopy it safely \u2014 we\u2019ll use it soon!\nTip: Don\u2019t share your API key publicly \u2014 it\u2019s like your personal password for AI access.\nStep 2: Set Up Your Python Environment\nLet\u2019s set up a clean space to code, so things don\u2019t get messy.\nFirst, create a new folder for your project:\nmkdir alith-demo && cd alith-demo\nNow, create and activate a virtual environment:\n#To double-check Python is ready:\npython --version #If you see Python 3.8+, you\u2019re good to go\n\n#Windows\npython -m venv venv\nvenv\\Scripts\\activate \n\n#Mac/Linux\npython3 -m venv venv\nsource venv/bin/activate\nStep 3: Install Alith SDK\nNow the fun part \u2014 let\u2019s bring Alith into our project.\nRun this command:\npip install alith -U\nThat\u2019s it! You\u2019ve just installed the Alith framework in Python.\nStep 4: Configure Your API Key\nTime to tell Alith which API key to use.\nYou can set it as an environment variable to keep it safe.\n#Mac/Linux:\nexport GROQ_API_KEY='your-api-key-here'\n\n#Windows:\nset GROQ_API_KEY \"your-api-key-here\"\nOr even better \u2014 use a .env file for simplicity.\nInside .env, just add:\nGROQ_API_KEY=your-api-key-here\nStep 5: Write a Simple Alith Example\nLet\u2019s make Alith do something \u2014 like tell us a joke\nCreate a new file called alith_joke.py and paste this code:\nfrom alith import Agent\nimport os\nfrom dotenv import load_dotenv\n\nload_dotenv()\napi_key = os.getenv(\"GROQ_API_KEY\")\n\nagent = Agent(\n    model=\"llama3-70b-8192\",\n    api_key=api_key,\n    base_url=\"https://api.groq.com/openai/v1\",\n    preamble=\"You are a funny comedian who entertains the user.\"\n)\n\nresponse = agent.prompt(\"Tell me a joke about coding.\")\nprint(response)\nThis little script connects to Groq through Alith and gets a fun AI-generated response!\nStep 6: Run the Code\nNow, you can run the Python file using this command :\n#Windows\npython alith_joke.py\n\n#Mac/Linux:\npython3 alith_joke.py\nIf everything\u2019s set up right, Alith will reply with a joke like:\n\u201cWhy do Python developers prefer dark mode? Because light attracts bugs! \u201d\nYeah, you successfully ran the Alith agent using a free api key",
-        "comments_details": [
-            {
-                "author": "Abi",
-                "comment": "Hey everyone ,\nI\u2019m Abishake, and in this post, I\u2019ll walk you through how to get started with Alith.\nAlright, before we jump into building something cool, let\u2019s first get the basics right.\nWe\u2019re going to cover a few simple but important steps \u2014 all hands-on!\nHere\u2019s what we\u2019ll do together\nGet your free Groq API key\nSet up your Python environment\nInstall Alith\nConfigure your API key securely\nWrite a sample Python code using Alith\nAnd finally\u2026 run it live!\nStep 1: Get Your Free Groq API Key\nTo make Alith talk with AI models, we need an API key \u2014 and Groq gives one for free\nHere\u2019s how to get it in less than a minute:\nGo to Groq\nSign up or log in\nHead over to API Keys \u2192 Generate New Key\nCopy it safely \u2014 we\u2019ll use it soon!\nTip: Don\u2019t share your API key publicly \u2014 it\u2019s like your personal password for AI access.\nStep 2: Set Up Your Python Environment\nLet\u2019s set up a clean space to code, so things don\u2019t get messy.\nFirst, create a new folder for your project:\nmkdir alith-demo && cd alith-demo\nNow, create and activate a virtual environment:\n#To double-check Python is ready:\npython --version #If you see Python 3.8+, you\u2019re good to go\n\n#Windows\npython -m venv venv\nvenv\\Scripts\\activate \n\n#Mac/Linux\npython3 -m venv venv\nsource venv/bin/activate\nStep 3: Install Alith SDK\nNow the fun part \u2014 let\u2019s bring Alith into our project.\nRun this command:\npip install alith -U\nThat\u2019s it! You\u2019ve just installed the Alith framework in Python.\nStep 4: Configure Your API Key\nTime to tell Alith which API key to use.\nYou can set it as an environment variable to keep it safe.\n#Mac/Linux:\nexport GROQ_API_KEY='your-api-key-here'\n\n#Windows:\nset GROQ_API_KEY \"your-api-key-here\"\nOr even better \u2014 use a .env file for simplicity.\nInside .env, just add:\nGROQ_API_KEY=your-api-key-here\nStep 5: Write a Simple Alith Example\nLet\u2019s make Alith do something \u2014 like tell us a joke\nCreate a new file called alith_joke.py and paste this code:\nfrom alith import Agent\nimport os\nfrom dotenv import load_dotenv\n\nload_dotenv()\napi_key = os.getenv(\"GROQ_API_KEY\")\n\nagent = Agent(\n    model=\"llama3-70b-8192\",\n    api_key=api_key,\n    base_url=\"https://api.groq.com/openai/v1\",\n    preamble=\"You are a funny comedian who entertains the user.\"\n)\n\nresponse = agent.prompt(\"Tell me a joke about coding.\")\nprint(response)\nThis little script connects to Groq through Alith and gets a fun AI-generated response!\nStep 6: Run the Code\nNow, you can run the Python file using this command :\n#Windows\npython alith_joke.py\n\n#Mac/Linux:\npython3 alith_joke.py\nIf everything\u2019s set up right, Alith will reply with a joke like:\n\u201cWhy do Python developers prefer dark mode? Because light attracts bugs! \u201d\nYeah, you successfully ran the Alith agent using a free api key"
-            }
-        ]
-    },
-    {
-        "id": "4f89c2c82f7e11ad",
-        "topic_id": "10747",
-        "title": "Dropping My LazAI Manifesto Blog \u2013 Let\u2019s Talk AI Trust!",
-        "url": "https://forum.ceg.vote/t/dropping-my-lazai-manifesto-blog-let-s-talk-ai-trust/10747",
-        "views": "",
-        "comments": "0",
-        "created_date": "Oct 4, 2025 5:34 pm",
-        "latest_activity": null,
-        "content": "Hey LazAI crew,\nI\u2019m pumped to share a blog I just published on Medium: The LazAI Manifesto: Forging a Trusted AI Future with Verified Computing. It\u2019s a deep dive into our vision of an AI-human aligned economic flywheel, powered by our Verified Computing Framework. Think decentralized trust, tamper-proof data, and iDAOs/Quorums revolutionizing how we build AI. I wrote it as a sci-fi-inspired manifesto to spark some big ideas\u2014no boring listicles here!\nCheck it out here: The LazAI Manifesto.\nWould love your thoughts\u2014what\u2019s your take on building trust in AI? How are you using the Verified Computing Framework in your projects? Drop some ideas or feedback below. Let\u2019s get the convo rolling!\nBullish on LazAI @0xthiru @nidhinakranii\n\u2013 Kiran , LazAI Dev Ambassador",
-        "comments_details": [
-            {
-                "author": "kirandev",
-                "comment": "Hey LazAI crew,\nI\u2019m pumped to share a blog I just published on Medium: The LazAI Manifesto: Forging a Trusted AI Future with Verified Computing. It\u2019s a deep dive into our vision of an AI-human aligned economic flywheel, powered by our Verified Computing Framework. Think decentralized trust, tamper-proof data, and iDAOs/Quorums revolutionizing how we build AI. I wrote it as a sci-fi-inspired manifesto to spark some big ideas\u2014no boring listicles here!\nCheck it out here: The LazAI Manifesto.\nWould love your thoughts\u2014what\u2019s your take on building trust in AI? How are you using the Verified Computing Framework in your projects? Drop some ideas or feedback below. Let\u2019s get the convo rolling!\nBullish on LazAI @0xthiru @nidhinakranii\n\u2013 Kiran , LazAI Dev Ambassador"
-            }
-        ]
-    },
-    {
-        "id": "bbe0d2f320a8c301",
-        "topic_id": "10654",
-        "title": "LazAI Bad Data Story Quest",
-        "url": "https://forum.ceg.vote/t/lazai-bad-data-story-quest/10654",
-        "views": "",
-        "comments": "7",
-        "created_date": "Sep 22, 2025 5:33 pm",
-        "latest_activity": "Oct 3, 2025 5:20 pm",
-        "content": "SEP\n22\nLazAI Story Quest\nExpired\n\u00b7\nCreated by\nSheyda\nMon, Sep 22 5:26 PM \u2192 Yesterday 4:00 AM\n4\nMisleading Data Breaks AI\nAI is only as strong as the data it learns from. Misleading data doesn\u2019t just create mistakes \u2014 it breaks trust, breaks outcomes, and breaks AI. On Hyperion with LazAI, we anchor proofs onchain to ensure transparency, reliability, and community ownership.\nThis 2-week campaign invites you to share your story:\nWhen have you experienced misleading data leading to wrong conclusions, funny outcomes, or serious problems?\nWhat did it teach you about why good data matters?\nBy sharing your voice, you help show why \u201cGood Data, Good AI \u2014 Anchored on Hyperion.\u201d\nHow to participate?\nJust share your story as a reply to this Forum post.\nThe most valid and interesting story will be selected as the winner.\nRewards\nWinner Reward: Lazbubu DAT redeem code\nLazbubu DATs are an exclusive, whitelist-only mint that is now closed. Each Lazbubu is a user-owned AI companion that grows and evolves with your interactions. Owning one is both rare and an early badge of entry into the Hyperion AI era.\nJoin the Story Quest\n\u201cMisleading Data Breaks AI.\u201d Share your story below and help shape a future where AI is anchored on trust.",
-        "comments_details": [
-            {
-                "author": "Sheyda",
-                "comment": "SEP\n22\nLazAI Story Quest\nExpired\n\u00b7\nCreated by\nSheyda\nMon, Sep 22 5:26 PM \u2192 Yesterday 4:00 AM\n4\nMisleading Data Breaks AI\nAI is only as strong as the data it learns from. Misleading data doesn\u2019t just create mistakes \u2014 it breaks trust, breaks outcomes, and breaks AI. On Hyperion with LazAI, we anchor proofs onchain to ensure transparency, reliability, and community ownership.\nThis 2-week campaign invites you to share your story:\nWhen have you experienced misleading data leading to wrong conclusions, funny outcomes, or serious problems?\nWhat did it teach you about why good data matters?\nBy sharing your voice, you help show why \u201cGood Data, Good AI \u2014 Anchored on Hyperion.\u201d\nHow to participate?\nJust share your story as a reply to this Forum post.\nThe most valid and interesting story will be selected as the winner.\nRewards\nWinner Reward: Lazbubu DAT redeem code\nLazbubu DATs are an exclusive, whitelist-only mint that is now closed. Each Lazbubu is a user-owned AI companion that grows and evolves with your interactions. Owning one is both rare and an early badge of entry into the Hyperion AI era.\nJoin the Story Quest\n\u201cMisleading Data Breaks AI.\u201d Share your story below and help shape a future where AI is anchored on trust."
-            }
-        ]
-    },
-    {
-        "id": "84927b6b6786134c",
-        "topic_id": "10422",
-        "title": "Metis Andromeda: Now Listed as a Stage 0 Optimistic Rollup on L2BEAT",
-        "url": "https://forum.ceg.vote/t/metis-andromeda-now-listed-as-a-stage-0-optimistic-rollup-on-l2beat/10422",
-        "views": "",
-        "comments": "9",
-        "created_date": "Sep 3, 2025 2:10 pm",
-        "latest_activity": "Oct 3, 2025 2:31 pm",
-        "content": "Metis has reached an important milestone. Andromeda is now officially listed as a Stage 0 Optimistic Rollup on L2BEAT.\nThis marks the start of Metis being tracked publicly on the most trusted transparency platform for Ethereum scaling. For years, Metis has been working toward decentralization \u2014 now that progress is measurable and visible to everyone.\nWhat does Stage 0 mean?\nStage 0 is the first level in L2BEAT\u2019s rollup maturity framework. At this stage:\nThe rollup is live and actively processing transactions\nIt inherits some security from Ethereum but still relies on operators (sequencers)\nIt sets the foundation for upgrades toward achieving stage 1, where security and decentralization guarantees become stronger.\nWhy is this milestone important?\nDecentralized Sequencers: Andromeda was the first L2 to release a novel decentralized sequencers infrastructure\nVisibility: The Ethereum community can now follow Metis\u2019 progress alongside other L2s, benchmarked on the same framework\nAccountability: Future upgrades will be visible, keeping Metis aligned with the highest standards of transparency\nFrom building quietly to building publicly\nMetis has been heads-down developing decentralized sequencing and infrastructure. With L2BEAT tracking, the community can now watch progress unfold step by step. This is the beginning of a more open, verifiable journey where Metis proves its decentralization in practice, not just in promise.\nMetis Announcement\nL2BEAT Listing",
-        "comments_details": [
-            {
-                "author": "Norbert",
-                "comment": "Metis has reached an important milestone. Andromeda is now officially listed as a Stage 0 Optimistic Rollup on L2BEAT.\nThis marks the start of Metis being tracked publicly on the most trusted transparency platform for Ethereum scaling. For years, Metis has been working toward decentralization \u2014 now that progress is measurable and visible to everyone.\nWhat does Stage 0 mean?\nStage 0 is the first level in L2BEAT\u2019s rollup maturity framework. At this stage:\nThe rollup is live and actively processing transactions\nIt inherits some security from Ethereum but still relies on operators (sequencers)\nIt sets the foundation for upgrades toward achieving stage 1, where security and decentralization guarantees become stronger.\nWhy is this milestone important?\nDecentralized Sequencers: Andromeda was the first L2 to release a novel decentralized sequencers infrastructure\nVisibility: The Ethereum community can now follow Metis\u2019 progress alongside other L2s, benchmarked on the same framework\nAccountability: Future upgrades will be visible, keeping Metis aligned with the highest standards of transparency\nFrom building quietly to building publicly\nMetis has been heads-down developing decentralized sequencing and infrastructure. With L2BEAT tracking, the community can now watch progress unfold step by step. This is the beginning of a more open, verifiable journey where Metis proves its decentralization in practice, not just in promise.\nMetis Announcement\nL2BEAT Listing"
             }
         ]
     }
